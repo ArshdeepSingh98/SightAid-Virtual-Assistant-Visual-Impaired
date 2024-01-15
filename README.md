@@ -1,4 +1,6 @@
-This project is associated with Arizona State University, released under CSE 535: Mobile Computing course. For access to the complete source code, please contact me at my [email](asroideva@gmail.com) address.
+This project is associated with Arizona State University, released under CSE 535: Mobile Computing course. For access to the complete source code, please contact me at my 
+
+\href{mailto:asroideva@gmail.com}{email} address.
 
 # CNN Image Classification and Adversarial attacks
 Duration: Sept 2023 - Nov 2023
