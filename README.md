@@ -1,6 +1,6 @@
 This project is associated with Arizona State University, released under CSE 535: Mobile Computing course. For access to the complete source code, please contact me at my [email](mailto:asroideva@gmail.com) address.
 
-# CNN Image Classification and Adversarial attacks
+# SightAid: Virtual Assistant for Visually Impaired
 Duration: Sept 2023 - Nov 2023
 
 SightAid is a mobile application designed to address the unique challenges faced by the visually impaired community. The application integrates a Braille keyboard and an Object Detection module to enhance daily experiences and promote inclusivity.
@@ -36,7 +36,7 @@ Objective: Empowers users with real-time awareness of their surroundings through
 - Real Time Processing of images and audio feedback
 
 # References
-- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
-- [FGSM evasion attack](https://arxiv.org/abs/1412.6572)
-- [PGD evasion attack](https://arxiv.org/pdf/1706.06083.pdf)
-- [Reference article](https://medium.com/swlh/gradient-based-adversarial-attacks-an-introduction-526238660dc9)
+- Šepić, Barbara, Abdurrahman Ghanem, and Stephan Vogel. "BrailleEasy: one-handed braille keyboard for smartphones." Assistive Technology. IOS Press, 2015. 1030-1035.
+- Church, Alex, et al. "Deep reinforcement learning for tactile robotics: Learning to type on a braille keyboard." IEEE Robotics and Automation Letters 5.4 (2020): 6145-6152.
+- Alnfiai, Mrim, and Srini Sampali. "An evaluation of the brailleenter keyboard: An input method based on braille patterns for touchscreen devices." 2017 international conference on computer and applications (ICCA). IEEE, 2017.
+- Eom, Tae-Jung, Jung-Bae Lee, and Byung-Gyu Kim. "Design of Smart Phone-Based Braille Keyboard System for Visually Impaired People." Convergence Security Journal 12.1 (2012): 63-70.
